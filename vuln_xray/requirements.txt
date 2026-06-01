@@ -1,0 +1,7 @@
+# VulnX-Ray Dependencies
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+urllib3>=1.26.0
+lxml>=4.9.0
+# Optional: For async scanning
+aiohttp>=3.8.0

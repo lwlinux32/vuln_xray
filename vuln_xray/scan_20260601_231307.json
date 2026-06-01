@@ -1,0 +1,7 @@
+{
+  "target": "https://httpbin.org/get",
+  "findings": 0,
+  "requests_made": 1,
+  "errors": [],
+  "timestamp": "2026-06-01T23:13:07.452963"
+}
